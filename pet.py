@@ -1,5 +1,5 @@
 class Pet:
-    def __init__(self, name):  # Make sure this line has "name"
+    def __init__(self, name): 
         self.name = name
         self.hunger = 5
         self.energy = 5
